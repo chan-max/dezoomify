@@ -2,7 +2,10 @@
 
 [![Dezoomify cover image](./cover.png)](https://ophir.alwaysdata.net/dezoomify/dezoomify.html)
 
+
 ## Download zoomable images
+
+
 
 _Dezoomify_ extracts full high-resolution images from online zoomable image interfaces.
 It works with several zoomable image tools, from several different websites (see the list below).
